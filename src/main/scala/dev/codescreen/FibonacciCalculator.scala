@@ -1,4 +1,4 @@
-package com.autocruit;
+package dev.codescreen;
 
 object FibonacciCalculator {
 
